@@ -4,4 +4,5 @@
 # Harmadik commit
 # Negyedik commit
 # Ötödik commit
-# helohelo cigok
+# helohelo Urak
+# Kongflikus készítés + bicigli tutorial 
