@@ -1,7 +1,6 @@
 # SSK0203
 # Első commit
-# Kecske hegy
-# halohalo
-# nana
-# dikabika
-# almafakecskeember
+# Második commit  
+# Harmadik commit
+# Negyedik commit
+# Ötödik commit
